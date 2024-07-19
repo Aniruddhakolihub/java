@@ -1,2 +1,3 @@
 # java
-java code
+This is my first java respositery
+Auther- aniruddha koli
